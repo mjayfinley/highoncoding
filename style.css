@@ -1,7 +1,7 @@
 
 
 .topnav {
-  background-color: #56B7F7;
+  background-color: #66A7F3;
   padding: 30px
 }
 
@@ -28,7 +28,7 @@ a {
 }
 
 .grayBackground {
-  background-color: lightgrey;
+  background-color: #DDDEE0;
   padding: 5px;
   margin-left: 20px;
   margin-top: 20px;
@@ -51,7 +51,7 @@ h2 {
 }
 
 h3 {
-  color: #56B7F7;
+  color: #477DC4;
   font-size: 24px;
   font-family: Arial,Verdana,Sans-serif;
   font-weight: lighter;
@@ -69,7 +69,7 @@ h3 {
 }
 
 .comments-div {
-  background-color: orange;
+  background-color: #E6943B;
   margin-left: 20px;
   margin-top: 0px;
   margin-right: 20px;
@@ -94,7 +94,7 @@ h4 {
   width: 200px;
   height: 150px;
   margin: 50px;
-  background-color: lightgrey;
+  background-color: #DDDEE0;
 }
 
 h5 {
